@@ -1,0 +1,5 @@
+{
+  "transaction_limit": 10000,
+  "admin_password": "your_secure_password"
+}
+
